@@ -7,3 +7,4 @@ Testing gpg signing.
 Testing auto gpg signing.
 
 Testing PR UI
+v2
